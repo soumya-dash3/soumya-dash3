@@ -1,4 +1,4 @@
-### Hi there 👋. Thanks for viewing my profile
+### Hi there 👋. Thanks for viewing my profile.
 
 
 Here are some ideas to get you started:
