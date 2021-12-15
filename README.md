@@ -1,7 +1,6 @@
 ### Hi there 👋. Thanks for viewing my profile.
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DSA ,Front-End Web Development and Competitive Programming
 - 🌱 I’m currently learning ... React js
