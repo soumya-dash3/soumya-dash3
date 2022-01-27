@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... React js
 - 👯 I’m looking to collaborate on ... Any projects involving Front-end web development or C++
 - 🤔 I’m looking for help with ... Open Source
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about ... Anything within my scope
 - 📫 How to reach me: ... soumyadash0309@gmail.com
 - 😄 Pronouns: ... She/Her
 <!-- -⚡ Fun fact: ... -->
