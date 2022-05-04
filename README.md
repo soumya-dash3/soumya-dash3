@@ -1,6 +1,6 @@
 ### Hi there 👋. Thanks for viewing my profile.
-
-
+<!-- <img src="https://github.com/soumya-dash3/soumya-dash3/blob/main/header.png?raw=true">
+ -->
 
 - 🔭 I’m currently working on ... DSA ,Front-End Web Development and Competitive Programming
 - 🌱 I’m currently learning ... React js
